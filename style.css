@@ -1,0 +1,49 @@
+*{
+    background-color: #2B2D31;
+    color: #FFF;
+}
+@font-face {
+    font-family: 'Gravidaz';
+    src: url(Fonts/Gravidaz.otf);
+}
+
+@font-face {
+    font-family: 'Infynyte';
+    src: url(Fonts/InfynyteDysplay-yKYm.otf);
+}
+
+@font-face {
+    font-family: 'Nasalization';
+    src: url(Fonts/nasalization-rg.otf);
+}
+
+h2 {
+    font-family: 'Infynyte';
+    font-size: 128px;
+}
+
+h3 {
+    font-family: 'Gravidaz';
+    font-size: 40px;
+}
+
+h4{
+    font-family: 'Nasalization';
+    font-size: 20px;
+}
+
+p {
+    font-family: "Cantarell", sans-serif;
+    font-size: 16px;
+}
+
+.container_grid {
+    width: 80%;
+    max-width: 1700px;
+    margin: 0 auto;
+}
+
+#Work h2{
+    display: flex;
+    justify-content: center;
+}
